@@ -4,34 +4,24 @@
 <!-- título -->
 <div align="center">
   <h1>Hola 👋, soy Fernando</h1>
-</div>
-
-<!-- snake -->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
-</div>
-
-<!-- frase -->
-<div align="center">
-  <h2>Building real websites, not just templates</h2>
+  <h3>Frontend Developer | Creando sitios web modernos</h3>
 </div>
 
 ---
 
 ## 🚀 Sobre mí
 
-- 🔭 Actualmente trabajando en **proyectos frontend y backend**
-- 🌱 Aprendiendo a conectar **frontend con backend real**
-- ⚡ Enfocado en **HTML, CSS, JavaScript, Node, MongoDB**
-- 💻 Construyendo proyectos para **negocios reales**
-- 📫 Portafolio: https://fgdev.online
+- 💻 Desarrollo sitios web modernos y responsivos  
+- 🎯 Enfocado en diseño limpio y experiencia de usuario  
+- ⚡ Trabajo con frontend y backend básico  
+- 📈 Construyendo proyectos para negocios reales  
 
 ---
 
 ## 🧩 Proyectos
 
 ### 💈 Royal Cuts
-Landing page para barbería con diseño moderno
+Landing page para barbería con diseño moderno  
 
 🔗 https://royal-cuts-one.vercel.app/
 
@@ -42,9 +32,12 @@ Landing page para barbería con diseño moderno
 ---
 
 ### 🖨️ TPrint
-Sitio web para negocio de impresión
+Sitio web para negocio de impresión  
 
-✔ Backend funcional  
+🔗 https://www.tprint.com.mx
+
+✔ Backend con Node.js y Express  
+✔ Base de datos con MongoDB  
 ✔ Integración de pagos (Mercado Pago)  
 ✔ Deploy en Render  
 
@@ -56,9 +49,9 @@ Sitio web para negocio de impresión
   <table align="center">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=FGDevStudio&theme=default&show_icons=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=FGDevStudio&show_icons=true" />
         <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=FGDevStudio&theme=default" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=FGDevStudio" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FGDevStudio&layout=compact" />
@@ -77,21 +70,15 @@ Sitio web para negocio de impresión
 
 ---
 
-## 🔗 Conecta conmigo
+## 🌐 Portafolio
 
-<p align="center">
-  <a href="https://fgdev.online" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="40"/>
-  </a>
-</p>
+🔗 https://fgdev.online
 
 ---
 
-## 👀 Visitas
+## 📫 Contacto
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=FGDevStudio&icon=3&color=6" />
-</p>
+Puedes ver más de mi trabajo en mi portafolio o explorar mis proyectos aquí en GitHub.
 
 ---
 
