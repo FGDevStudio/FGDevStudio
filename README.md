@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hola, soy Fernando | FGDevStudio
 
-<!--
-**FGDevStudio/FGDevStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Frontend enfocado en crear sitios web modernos, rápidos y orientados a resultados para negocios.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+Construyo interfaces limpias, responsivas y con enfoque en conversión.  
+Me interesa no solo el diseño visual, sino también la lógica detrás de aplicaciones reales.
+
+Trabajo tanto en frontend como integrando backend y servicios externos.
+
+---
+
+## 🧩 Proyectos destacados
+
+### 🖨️ TPrint
+Sitio web para negocio de impresión y servicios digitales.
+
+✔ Diseño orientado a servicios  
+✔ Integración de pagos  
+✔ Estructura enfocada en clientes  
+
+**Tecnologías usadas:**
+- HTML, CSS, JavaScript  
+- Node.js, Express  
+- MongoDB  
+- Mercado Pago  
+- Render  
+
+---
+
+### 💈 Royal Cuts
+Landing page premium para barbería.
+
+✔ Diseño elegante y moderno  
+✔ Experiencia visual cuidada  
+✔ Animaciones e interacción sutil  
+
+🔗 Ver proyecto:  
+https://royal-cuts-one.vercel.app/
+
+**Tecnologías usadas:**
+- HTML  
+- CSS  
+- JavaScript  
+- Git & Vercel  
+
+---
+
+## 🛠️ Tecnologías
+
+### Frontend
+```txt
+HTML · CSS · JavaScript
+Responsive Design · UI/UX
