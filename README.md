@@ -14,7 +14,7 @@
 - 💻 Desarrollo sitios web modernos y responsivos  
 - 🎯 Enfocado en diseño limpio y experiencia de usuario  
 - ⚡ Trabajo con frontend y backend básico  
-- 📈 Construyendo proyectos para negocios reales  
+- 📈 Construyendo proyectos para negocios  
 
 ---
 
